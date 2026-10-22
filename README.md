@@ -5,10 +5,11 @@
   
 ## Como rodar?
 > make //compila os arquivos
+-------
 > echo "expressao" | ./mybc 
 
 ## Autores
 - Nikolas Ribeiro Klasa
-- Enzo Stevanato Picelli
+- Enzo Picelli Stevanato 
 - Felipe Pereira de Souza
 - (Professor) Eraldo Pereira Marino 
